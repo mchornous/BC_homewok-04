@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -Wpedantic -Wshadow -Wundef -Wno-missing-field-initializers   CMakeFiles/stringMain.dir/src/myString.cpp.o CMakeFiles/stringMain.dir/src/stringMain.cpp.o  -o stringMain -rdynamic -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
